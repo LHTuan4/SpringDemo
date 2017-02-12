@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/org/shoppingdemon/config/ApplicationContextConfig.java=UTF-8
+encoding//src/main/java/org/shoppingdemon/config/WebMvcConfig.java=UTF-8
+encoding//src/main/java/org/shoppingdemon/config/WebSecurityConfig.java=UTF-8
+encoding//src/main/java/org/shoppingdemon/controller/AdminController.java=UTF-8
+encoding//src/main/java/org/shoppingdemon/controller/MainController.java=UTF-8
+encoding//src/main/java/org/shoppingdemon/daoImpl/OrderDAOImpl.java=UTF-8
+encoding//src/main/java/org/shoppingdemon/model/OrderDetailInfo.java=UTF-8
+encoding//src/main/java/org/shoppingdemon/model/OrderInfo.java=UTF-8
+encoding//src/main/java/org/shoppingdemon/model/PaginationResult.java=UTF-8
+encoding//src/main/java/org/shoppingdemon/ulti/Utils.java=UTF-8
